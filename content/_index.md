@@ -1,9 +1,9 @@
 ---
 ---
 
-I'm **Chris Turner**, a Software Engineer.
+I'm **Sumit Dhiman**, a Linux enthuisiast and a Civl Engineering
 
-I love all things computer science and maths.
+student at National Institute of Technology Hamirpur.
 
 Have a look at some of my working [projects].
 
@@ -14,6 +14,6 @@ Contact me at [@username] or by [email].
 
 
 [projects]: /projects
-[resume]: https://demo.nurlan.co/hugo-vitae/
+[resume]: /
 [@username]: https://twitter.com/username
 [email]: mailto:email@example.com
