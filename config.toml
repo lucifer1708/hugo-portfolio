@@ -10,7 +10,7 @@ googleAnalytics = ""
   post = "/:year/:month/:day/:slug"
 
 [params]
-  avatar = "img/profile.png"
+  avatar = "img/profile.jpg"
   bg = "img/wall.jpg"
   author = "Sumit Dhiman"
   description = "Describe your website"
